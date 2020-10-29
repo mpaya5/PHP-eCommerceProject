@@ -6,7 +6,7 @@ This is a project of a PHP eCommerce using MVC.
 ### SQL
 You will find the `SQL` in the folder Database(https://github.com/yumewebs/PHP-eCommerceProject/blob/main/proyecto-php-poo/database/database.sql)
 
-### In the code you will find:
+### In the PHP code you will find:
 - User registration with your form
 - htaccess paths
 - Models and records
